@@ -41,4 +41,9 @@ Python was used to make the prediction.
 Exploratory data analysis and visualization of a video game dataset using Jupyter Notebook. 
 Tasks include data summary, identifying unique genres, trends in sales, and visualizing sales comparisons across regions.
 
+##### PROJECT 8 : Movies Corelation Project
+[Project 8: Movies Corelation Project](https://github.com/Sharon-Wachira/Movie-Correlation-Project)
+This short project involves doing a corelation analysis of the variables in the dastset that was obtained from Alex-The-Analyst page.
+
+
 
