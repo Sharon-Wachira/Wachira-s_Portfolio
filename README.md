@@ -8,14 +8,15 @@
 * The model used content-based filtering.
 * This is a project I did for one of the masters that used a laptop dataset to recommend 10 laptops depending on the specifications a buyer would need. The process involved using both TF-IDF and Cosine Similarity( as mentioned earlier) and idenfitying the best way to combine the 2 to get the best recommendation system.
 * ![Image](https://github.com/user-attachments/assets/f6bb120e-29d3-4927-841d-5fb47d2c6bec)
-* The graph shows how the systems performed with case 4 being the optimal solution. 
+* The graph shows how the systems performed with case 4 (the red line in the 3 graphs) being the optimal solution. 
 
 #####  PROJECT 2:Uncovering Key drivers of Campus Placement success using R 
 [Project 2 : Campus Placement](https://github.com/Sharon-Wachira/Campus-Placement-using-R)
 This project uncovers the key insights involved in campus placement.
 The dataset used was obtained from Kaggle. 
-R was used for data exploration, cleaning and developing the models. 
-Regression model was used. 
+R was used for data exploration, cleaning and developing the models wehreby regression model was used in 4 different instances to identify the most accurate one. 
+![Image](https://github.com/user-attachments/assets/d293f796-f6de-4c0d-b347-e9d7fddc6507)
+To understand the accuracy of the work done, the graph below shows the accuracy of the regression model. 
 
 ######  PROJECT 3: Loan Approval Prediction
 [Project 3 : Predicting loan approval](https://github.com/Sharon-Wachira/Predicting-Loan-Approval-using-R)
