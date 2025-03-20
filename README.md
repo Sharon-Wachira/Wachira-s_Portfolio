@@ -3,6 +3,7 @@
 ##### PROJECT 1 : Recommendation System using Jupyter Notebook 
  [Project 1 : Laptop Recommendation System](https://github.com/Sharon-Wachira/Laptop-Recommendation-System)
 This is a project I did for one of the masters that used a laptop dataset to recommend 10 laptops depending on the specifications a buyer would need. 
+![Image](https://github.com/user-attachments/assets/a95b5711-e8e9-4bc4-85ee-13837e3365fc)
 * The dataset was obtained from Kaggle.
 * The model used content-based filtering.
 * Algorithims used included TF-IDF and Cosine Similarity.
