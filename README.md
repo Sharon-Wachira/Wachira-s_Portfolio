@@ -2,11 +2,13 @@
 
 ##### PROJECT 1 : Recommendation System using Jupyter Notebook 
  [Project 1 : Laptop Recommendation System](https://github.com/Sharon-Wachira/Laptop-Recommendation-System)
-This is a project I did for one of the masters that used a laptop dataset to recommend 10 laptops depending on the specifications a buyer would need. 
-![Image](https://github.com/user-attachments/assets/a95b5711-e8e9-4bc4-85ee-13837e3365fc)
+ 
 * The dataset was obtained from Kaggle.
-* The model used content-based filtering.
 * Algorithims used included TF-IDF and Cosine Similarity.
+* The model used content-based filtering.
+* This is a project I did for one of the masters that used a laptop dataset to recommend 10 laptops depending on the specifications a buyer would need. The process involved using both TF-IDF and Cosine Similarity( as mentioned earlier) and idenfitying the best way to combine the 2 to get the best recommendation system.
+* ![Image](https://github.com/user-attachments/assets/f6bb120e-29d3-4927-841d-5fb47d2c6bec)
+* The graph shows how the systems performed with case 4 being the optimal solution. 
 
 #####  PROJECT 2:Uncovering Key drivers of Campus Placement success using R 
 [Project 2 : Campus Placement](https://github.com/Sharon-Wachira/Campus-Placement-using-R)
