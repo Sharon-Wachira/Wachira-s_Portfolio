@@ -21,9 +21,10 @@ To understand the accuracy of the work done, the graph below shows the accuracy 
 ######  PROJECT 3: Loan Approval Prediction
 [Project 3 : Predicting loan approval](https://github.com/Sharon-Wachira/Predicting-Loan-Approval-using-R)
 This project uses models to predict if a loan applicant will get approved or not. 
-The dataset sued for this prediction is sourced from Kaggle. 
-R software was used. 
-Random Forest and XGBoost was used. 
+The dataset used for this prediction is sourced from Kaggle. 
+R software was used whereby Random Forest performed better in correctly predicting loan approval and revealing whihc features are important in loan approval as shown below:
+![Image](https://github.com/user-attachments/assets/0208ba4f-4d3e-4780-bb10-9cadf1617e95)
+Both Random Forest and XGBoost were used
 
 ##### PROJECT 4 : Property Sales
 [Project 4 : Predicting House Prices](https://github.com/Sharon-Wachira/Machine-Learning---Property-Sales)
@@ -38,16 +39,22 @@ This is a simple python process of data cleaning, processing and doing some visu
 [ Project 6 : Sales prediction model](https://github.com/Sharon-Wachira/Sales-Prediction-Model-Machine-Learning/tree/main)
 This project involved predicting sales and key drivers of the sales using dataset obtained from Kaggle. 
 Machine learning was used employing models like Random Forest and XGBoost. 
+![Image](https://github.com/user-attachments/assets/25c933a7-437d-43aa-a779-5b7fa0e2fae8)
 Python was used to make the prediction. 
 
 ##### PROJECT 7 : EDA and Visualization 
 [Project 7 : EDA and visualization of a gaming dataset using Python](https://github.com/Sharon-Wachira/EDA-and-Visualization-of-Gaming-Dataset)
 Exploratory data analysis and visualization of a video game dataset using Jupyter Notebook. 
+The graph below is an example of some trends comparison of sales in different regions. 
+![Image](https://github.com/user-attachments/assets/f9c4150d-a815-48fe-9c5c-cea621c38931)
 Tasks include data summary, identifying unique genres, trends in sales, and visualizing sales comparisons across regions.
 
 ##### PROJECT 8 : Movies Corelation Project
 [Project 8: Movies Corelation Project](https://github.com/Sharon-Wachira/Movie-Correlation-Project)
+
 This short project involves doing a corelation analysis of the variables in the dastset that was obtained from Alex-The-Analyst page.
+![image](https://github.com/user-attachments/assets/fef24026-6b52-411c-9f72-743c1cfe41c6)
+
 
 
 
