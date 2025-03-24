@@ -34,7 +34,8 @@ This was done using Python. KNN, Random Forest and XGBoost were utulized compari
 
 ##### PROJECT 5 : Data Workflow Automation using Python
 [Project 5 : Data workflow ](https://github.com/Sharon-Wachira/Data-workflow-automation-App-in-Python)
-This is a simple python process of data cleaning, processing and doing some visualization and creating an automation process to observe the steps followed. 
+This is a simple python process of data cleaning, processing and doing some visualization and creating an automation process to observe the steps followed. Below is a sample of the visualizations done of the sales. 
+![Image](https://github.com/user-attachments/assets/436b2def-69ef-42a7-8699-958e6593b662)
 
 
 ##### PROJECT 6 : SALES PREDICTION MODEL - Superstore Models
