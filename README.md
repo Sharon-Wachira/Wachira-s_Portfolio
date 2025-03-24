@@ -28,12 +28,14 @@ Both Random Forest and XGBoost were used
 
 ##### PROJECT 4 : Property Sales
 [Project 4 : Predicting House Prices](https://github.com/Sharon-Wachira/Machine-Learning---Property-Sales)
-This project uses machine learning models to predict house prices in Malaysia using a dataset that was provided by the lecturer. 
+This project uses machine learning models to predict house prices in Malaysia using a dataset that was provided by the lecturer. The visualization below shows the performance of the 2 best models used: Random Forest and XGBoost out of the 3 used. 
+![Image](https://github.com/user-attachments/assets/afb41ee3-577e-414c-b79c-37736b8436eb)
 This was done using Python. KNN, Random Forest and XGBoost were utulized comparing which one performs best. 
 
 ##### PROJECT 5 : Data Workflow Automation using Python
 [Project 5 : Data workflow ](https://github.com/Sharon-Wachira/Data-workflow-automation-App-in-Python)
 This is a simple python process of data cleaning, processing and doing some visualization and creating an automation process to observe the steps followed. 
+
 
 ##### PROJECT 6 : SALES PREDICTION MODEL - Superstore Models
 [ Project 6 : Sales prediction model](https://github.com/Sharon-Wachira/Sales-Prediction-Model-Machine-Learning/tree/main)
