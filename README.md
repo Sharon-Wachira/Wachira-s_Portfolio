@@ -58,6 +58,13 @@ Tasks include data summary, identifying unique genres, trends in sales, and visu
 This short project involves doing a corelation analysis of the variables in the dastset that was obtained from Alex-The-Analyst page.
 ![image](https://github.com/user-attachments/assets/fef24026-6b52-411c-9f72-743c1cfe41c6)
 
+##### PROJECT 9 : Dataset Dashboard using Power BI 
+[Project 9: Data Professional Breakdown Survey ]([https://github.com/Sharon-Wachira/Movie-Correlation-Project)](https://github.com/Sharon-Wachira/Data-Analyst-Dashboard)
+
+This project analyses a dataset that was collected by Alex The Analyst which surveyed professionals on various aspects of their careers like their work-life balance, job satisfaction and their geographical locations. Using Power BI, I created an interactive dashboard ( shown below) to generate a few business insights and key trends in the data industry.
+
+
+
 
 
 
