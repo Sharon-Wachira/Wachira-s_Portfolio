@@ -62,6 +62,7 @@ This short project involves doing a corelation analysis of the variables in the 
 [Project 9: Data Professional Breakdown Survey ]([https://github.com/Sharon-Wachira/Movie-Correlation-Project)](https://github.com/Sharon-Wachira/Data-Analyst-Dashboard)
 
 This project analyses a dataset that was collected by Alex The Analyst which surveyed professionals on various aspects of their careers like their work-life balance, job satisfaction and their geographical locations. Using Power BI, I created an interactive dashboard ( shown below) to generate a few business insights and key trends in the data industry.
+![Image](https://github.com/user-attachments/assets/5ac98378-b9a4-46f5-b200-955b499d6fd2)
 
 
 
