@@ -1,4 +1,15 @@
-### Wachira's_Portfolio
+# Wachira's_Portfolio
+Hello ! My name is Sharon Wachira, I am a Business Analytics Master's student. On other days, I also love animals and creating content but we are here because of Business and Data Analytics. 
+
+I specialize in data analysis, visualization and machine learning, turning raw data into insights that will drive business value. My projects focus on real-world problem solving using technologies like Python, Power BI and machine learning models.
+
+### WHAT YOU WILL FIND IN MY PORTFOLIO
+1. Data Analytics Dashboards
+2. Machine Learning Models
+3. Exploratory Data Projects
+
+Anyway, here is a list of my projects. I am always open to collaborating. Reach out to me via 
+[LinkedIN(https://www.linkedin.com/in/sharon-wachira/]
 
 ##### PROJECT 1 : Recommendation System using Jupyter Notebook 
  [Project 1 : Laptop Recommendation System](https://github.com/Sharon-Wachira/Laptop-Recommendation-System)
