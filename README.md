@@ -9,7 +9,7 @@ I specialize in data analysis, visualization and machine learning, turning raw d
 3. Exploratory Data Projects
 
 Anyway, here is a list of my projects. I am always open to collaborating. Reach out to me via 
-[LinkedIN(https://www.linkedin.com/in/sharon-wachira/]
+[LinkedIN](https://www.linkedin.com/in/sharon-wachira/)
 
 ##### PROJECT 1 : Recommendation System using Jupyter Notebook 
  [Project 1 : Laptop Recommendation System](https://github.com/Sharon-Wachira/Laptop-Recommendation-System)
