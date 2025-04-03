@@ -1,5 +1,6 @@
 # Wachira's_Portfolio
-Hello ! My name is Sharon Wachira, I am a Business Analytics Master's student. On other days, I also love animals and creating content but we are here because of Business and Data Analytics. 
+
+Hello ! My name is Sharon Wachira. I am a Business Analytics Master's student. On other days, I also love animals and creating content but we are here because of Business and Data Analytics. 
 
 I specialize in data analysis, visualization and machine learning, turning raw data into insights that will drive business value. My projects focus on real-world problem solving using technologies like Python, Power BI and machine learning models.
 
