@@ -1,16 +1,21 @@
 
-![image](https://github.com/user-attachments/assets/c778088f-7ba2-4117-812a-b861dd7fd46b)
 
-# Wachira's_Portfolio
+# SHARON WACHIRA'S PORTFOLIO
+![image](https://github.com/user-attachments/assets/439f00bb-f59a-4a0a-b6ad-ad3628facbf7)
 
-Hello ! My name is Sharon Wachira. I am a Business Analytics Master's student. On other days, I also love animals and creating content but we are here because of Business and Data Analytics. 
+##### I am open to collaborations. Reach out to me via [LinkedIN](https://www.linkedin.com/in/sharon-wachira/) and my [EMAIL](shazziewachira@gmail.com)
 
-I specialize in data analysis, visualization and machine learning, turning raw data into insights that will drive business value. My projects focus on real-world problem solving using technologies like Python, Power BI and machine learning models.
+### LIST OF THE PROJECTS IN MY PORTFOLIO
 
-### WHAT YOU WILL FIND IN MY PORTFOLIO
-1. Data Analytics Dashboards
-2. Machine Learning Models
-3. Exploratory Data Projects
+1. A recommendation System
+2. Uncovering Key Insights of Campus Placement using R
+3. A loan approval predictive model
+4. A house pricing prediction model
+5. Data Workflow Automation using Python
+6. Sales Prediction Model
+7. Exploratory Data Analysis & Visualization
+8. A Movies Corelation Project
+9. A Data professionals dashboard 
 
 Anyway, here is a list of my projects. I am always open to collaborating. Reach out to me via [LinkedIN](https://www.linkedin.com/in/sharon-wachira/) and my [EMAIL](shazziewachira@gmail.com)
 
