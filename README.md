@@ -1,6 +1,6 @@
 
 
-                                        # SHARON WACHIRA'S PORTFOLIO
+   # SHARON WACHIRA'S PORTFOLIO
                                         
 ![image](https://github.com/user-attachments/assets/439f00bb-f59a-4a0a-b6ad-ad3628facbf7)
 
