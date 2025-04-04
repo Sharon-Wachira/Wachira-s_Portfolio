@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/c778088f-7ba2-4117-812a-b861dd7fd46b)
+
 # Wachira's_Portfolio
 
 Hello ! My name is Sharon Wachira. I am a Business Analytics Master's student. On other days, I also love animals and creating content but we are here because of Business and Data Analytics. 
