@@ -11,7 +11,7 @@ I specialize in data analysis, visualization and machine learning, turning raw d
 
 Anyway, here is a list of my projects. I am always open to collaborating. Reach out to me via [LinkedIN](https://www.linkedin.com/in/sharon-wachira/) and my [EMAIL](shazziewachira@gmail.com)
 
-##### PROJECT 1 : Recommendation System using Jupyter Notebook 
+### PROJECT 1 : Recommendation System using Jupyter Notebook 
  [Project 1 : Laptop Recommendation System](https://github.com/Sharon-Wachira/Laptop-Recommendation-System)
  
 * The dataset was obtained from Kaggle.
@@ -64,11 +64,14 @@ The graph below is an example of some trends comparison of sales in different re
 Tasks include data summary, identifying unique genres, trends in sales, and visualizing sales comparisons across regions.
 
 ##### PROJECT 8 : Movies Corelation Project
+
 [Project 8: Movies Corelation Project](https://github.com/Sharon-Wachira/Movie-Correlation-Project)
 
-This short project involves doing a corelation analysis of the variables in the dastset that was obtained from Alex-The-Analyst page.
-![image](https://github.com/user-attachments/assets/fef24026-6b52-411c-9f72-743c1cfe41c6)
+This short project involves doing a correlation analysis of the movies in the dataset that was obtained from Alex-The-Analyst page.
 
+![image](https://github.com/user-attachments/assets/fef24026-6b52-411c-9f72-743c1cfe41c6)
+ The project aids producers and investors to understand the correlations that will help optimize budgeting strategies and predict box office performance based on initial investments and audience engagement metrics.
+ 
 ##### PROJECT 9 : Dataset Dashboard using Power BI 
 [Project 9: Data Professional Breakdown Survey ]([https://github.com/Sharon-Wachira/Movie-Correlation-Project)](https://github.com/Sharon-Wachira/Data-Analyst-Dashboard)
 
