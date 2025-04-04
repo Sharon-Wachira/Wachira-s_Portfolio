@@ -1,6 +1,7 @@
 
 
-# SHARON WACHIRA'S PORTFOLIO
+                                        # SHARON WACHIRA'S PORTFOLIO
+                                        
 ![image](https://github.com/user-attachments/assets/439f00bb-f59a-4a0a-b6ad-ad3628facbf7)
 
 ##### I am open to collaborations. Reach out to me via [LinkedIN](https://www.linkedin.com/in/sharon-wachira/) and my [EMAIL](shazziewachira@gmail.com)
@@ -15,9 +16,8 @@
 6. Sales Prediction Model
 7. Exploratory Data Analysis & Visualization
 8. A Movies Corelation Project
-9. A Data professionals dashboard 
+9. A Data professionals dashboard
 
-Anyway, here is a list of my projects. I am always open to collaborating. Reach out to me via [LinkedIN](https://www.linkedin.com/in/sharon-wachira/) and my [EMAIL](shazziewachira@gmail.com)
 
 ### PROJECT 1 : Recommendation System using Jupyter Notebook 
  [Project 1 : Laptop Recommendation System](https://github.com/Sharon-Wachira/Laptop-Recommendation-System)
