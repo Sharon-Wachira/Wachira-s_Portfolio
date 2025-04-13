@@ -32,7 +32,9 @@
 
 ### PROJECT 2  : A British Airline Reviews Dashboard
 [Project 3: British Airlines](https://github.com/Sharon-Wachira/British-Airlines-Reviews)
+
 This project showcases reviews of customers of British Airlines across different countries and service Categories.
+The dataset was obtained from Github. 
 
 ![image](https://github.com/user-attachments/assets/cd7d3893-24ef-4e1d-8302-fab7cf3e1a9c)
 
