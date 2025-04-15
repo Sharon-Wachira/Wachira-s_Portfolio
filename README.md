@@ -18,6 +18,8 @@
 8. Exploratory Data Analysis & Visualization
 9. A Movies Corelation Project
 10. A Data professionals dashboard
+11. House Prices Dashboard
+    
 
 
 ### PROJECT 1 : Recommendation System using Jupyter Notebook 
@@ -96,6 +98,15 @@ This short project involves doing a correlation analysis of the movies in the da
 
 This project analyses a dataset that was collected by Alex The Analyst which surveyed professionals on various aspects of their careers like their work-life balance, job satisfaction and their geographical locations. Using Power BI, I created an interactive dashboard ( shown below) to generate a few business insights and key trends in the data industry.
 ![Image](https://github.com/user-attachments/assets/5ac98378-b9a4-46f5-b200-955b499d6fd2)
+
+
+### PROJECT 11 : House Prices Dashboard
+[Project 10: House Prices in King County Washington](https://github.com/Sharon-Wachira/House-Prices-Dashboard)
+
+This interactive dashboard showcases King County, WA housing market trends during May 2014. I built this tool to identify patterns in house prices, buyer preferences, and the impact of location and property condition on sale value.
+
+![image](https://github.com/user-attachments/assets/f8282781-2e9b-45ce-b36a-300f17be5fb0)
+
 
 
 
