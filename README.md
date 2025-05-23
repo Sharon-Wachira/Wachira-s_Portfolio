@@ -113,6 +113,7 @@ This interactive dashboard showcases King County, WA housing market trends durin
 [Project 12 :  Superstore Analytics Dashboard using Power BI](https://github.com/Sharon-Wachira/Superstore-Analytics-Dashboard-using-Power-BI/tree/main)
 
 This dashboard showcases business performance using a fictional retail dataset. It provides a clear, interactive view of Total Sales, Profit, and Return Rate KPIs, Monthly sales trends compared to the previous year, Product-level profitability, State-wise performance on a map and Segment-wise profit contribution. 
+The goal was to create an interactive and easy-to-read report that supports data-driven decision making.
 
 ![image](https://github.com/user-attachments/assets/33c083ce-ae04-474b-99ed-3bc2baf7b191)
 
