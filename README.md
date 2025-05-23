@@ -102,7 +102,7 @@ This project analyses a dataset that was collected by Alex The Analyst which sur
 
 
 ### PROJECT 11 : House Prices Dashboard
-[Project 10: House Prices in King County Washington](https://github.com/Sharon-Wachira/House-Prices-Dashboard)
+[Project 11: House Prices in King County Washington](https://github.com/Sharon-Wachira/House-Prices-Dashboard)
 
 This interactive dashboard showcases King County, WA housing market trends during May 2014. I built this tool to identify patterns in house prices, buyer preferences, and the impact of location and property condition on sale value.
 
@@ -110,6 +110,11 @@ This interactive dashboard showcases King County, WA housing market trends durin
 
 
 ### PROJECT 12 : Superstore Analytics Dashboard using Power BI
+[Project 12 :  Superstore Analytics Dashboard using Power BI](https://github.com/Sharon-Wachira/Superstore-Analytics-Dashboard-using-Power-BI/tree/main)
+
+This dashboard showcases business performance using a fictional retail dataset. It provides a clear, interactive view of Total Sales, Profit, and Return Rate KPIs, Monthly sales trends compared to the previous year, Product-level profitability, State-wise performance on a map and Segment-wise profit contribution. 
+
+![image](https://github.com/user-attachments/assets/33c083ce-ae04-474b-99ed-3bc2baf7b191)
 
 
 
