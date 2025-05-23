@@ -19,6 +19,7 @@
 9. A Movies Corelation Project
 10. A Data professionals dashboard
 11. House Prices Dashboard
+12. Superstore Analytics Dashboard using Power BI
     
 
 
@@ -106,6 +107,9 @@ This project analyses a dataset that was collected by Alex The Analyst which sur
 This interactive dashboard showcases King County, WA housing market trends during May 2014. I built this tool to identify patterns in house prices, buyer preferences, and the impact of location and property condition on sale value.
 
 ![image](https://github.com/user-attachments/assets/f8282781-2e9b-45ce-b36a-300f17be5fb0)
+
+
+### PROJECT 12 : Superstore Analytics Dashboard using Power BI
 
 
 
